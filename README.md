@@ -1,4 +1,7 @@
-# CLASSIFICATION PROJECT				 
+![WhatsApp Image 2023-08-18 at 8 56 46 PM](https://github.com/lauranyangasi/classification/assets/136954763/50d2719c-badd-48cb-b7b7-67959af88e5e)
+
+# CLASSIFICATION PROJECT	
+
 
 ## CHURN ANALYSIS 
 
